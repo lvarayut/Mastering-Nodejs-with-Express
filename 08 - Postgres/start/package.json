@@ -1,0 +1,27 @@
+{
+  "name": "mastering-nodejs-with-express",
+  "version": "1.0.0",
+  "description": "Mastering Node.js with Express Workshop",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvarayut/Mastering-Nodejs-with-Express.git"
+  },
+  "author": "Varayut Lerdkanlayanawat",
+  "license": "Copyright © 2020 The Summit Co., Ltd. All rights reserved",
+  "bugs": {
+    "url": "https://github.com/lvarayut/Mastering-Nodejs-with-Express/issues"
+  },
+  "homepage": "https://github.com/lvarayut/Mastering-Nodejs-with-Express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4"
+  }
+}
