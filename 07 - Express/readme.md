@@ -2,7 +2,7 @@
 
 ### Installing Postman for testing routes
 
-1. Install the [Postman](postman.com/downloads/) application
+1. Install the [Postman](https://www.postman.com/downloads/) application
 
 ### Setting up a server using Express
 
